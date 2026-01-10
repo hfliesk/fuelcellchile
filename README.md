@@ -18,7 +18,7 @@ Portafolio de proyectos y servicios de IHF EIRL, especializado en energía soste
 2. Sube tus fotos reales reemplazando los placeholders.
 3. Commit → se actualiza automáticamente.
 
-¡Contacto: mflesk@gmail.com | Angol, Chile 🚀
+¡Contacto: hflesk@gmail.com | Angol, Chile 🚀
 
 ---
 
